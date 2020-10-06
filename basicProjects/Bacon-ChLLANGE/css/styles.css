@@ -1,0 +1,24 @@
+body{
+  background-color: teal;
+}
+h1{
+  background-color: red;
+}
+img{
+  background-color: red;
+}
+/* .helmet{
+  background-color: blue;
+} */
+/* #heading{
+  background-color: blue;
+  text-decoration: line-through;
+} */
+.baconnn:hover{
+  background-color: gold;
+  border-radius: 80%;
+}
+.helmet:hover{
+  background-color: teal;
+  border-radius:40%;
+}
