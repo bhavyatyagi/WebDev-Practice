@@ -1,0 +1,174 @@
+#title{
+  background-color: #ff4c68;
+}
+h1{
+
+  font-family: 'Montserrat-Black 900', sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  color: white;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.col-lg-6{
+  margin-top: 50px;
+}
+.btn2{
+  margin-left: 20px;
+}
+body{
+  font-family: 'Montserrat';
+}
+/* Navigation Bar */
+.navbar{
+  padding: 0;
+}
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  font-size: 2rem;
+}
+.nav-item{
+  padding: 0 18px;
+
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light'
+}
+/* Title Image */
+.title-img{
+  width: 60%;
+  transform: rotate(25deg);
+}
+/* Features Section */
+.r2{
+  padding: 7% 15%;
+}
+h3{
+  font-family: 'Montserrat-Bold';
+  font-weight: bold;
+}
+.fas{
+  /* width: 20px; */
+  padding-bottom: 15px;
+  color: #ef8172;
+
+}
+p{
+  color: #8f8f8f;
+}
+.col-lg-4{
+  text-align: center;
+  padding: 5%;
+}
+.fas:hover{
+  color: #ff4c68;
+}
+/* Testimonal Section\ */
+#testimonials{
+
+  background-color: #ef8172;
+  color: #fff;
+  text-align: center;
+}
+h2{
+  font-family:"Montserrat-Bold" ;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+margin-top: 40px;
+}
+.dog-img{
+  border-radius: 100%;
+  width: 15%;
+  margin: 10px;
+}
+/* Press Section */
+#press{
+  background-color: #ef8172;
+  text-align: center;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;;
+}
+#testimonials:hover{
+    background-color: #ff4c68;
+}
+#press:hover{
+    background-color: #ff4c68;
+}
+#pricing{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.col-lg-4{
+  padding: 4% 3%;
+  margin: 0 ;
+}
+#cta{
+  font-family: 'Montserrat-Black';
+  font-weight: bold;
+  text-align: center;
+  margin: 15px 0;
+  padding: 100px;
+  background-color: #ef8172;
+  color: white;
+
+
+}
+#cta:hover{
+  background-color: #ff4c68;
+
+}
+#footer{
+  text-align: center;
+  margin: 50px;
+}
+.title-img{
+
+  position: absolute;
+  right: 20%;
+}
+#features{
+  background-color: white;
+  position: relative;
+  /* top: 5px; */
+  z-index: 1;
+}
+
+@media (max-width: 1028px) {
+  .title-img{
+    position: static;
+    transform: rotate(0deg);
+  }
+  #title{
+    text-align: center;
+  }
+}
+
+.h3-bottom{
+  margin: 50px;
+    font-size: 70px;
+}
+.btn2-bottom{
+  margin-left: 50px;
+}
+#footer{
+  margin: 50px;
+
+}
+.f2{
+  margin-left: 20px;
+}
+.f3{
+  margin-top: 20px;
+}
